@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Mont-bold';
-    src: url(../fonts/Mont-Bold.ttf);
+    src: url(6/fonts/Mont-Bold.ttf);
 }
 @font-face {
     font-family: 'Mont-normal';
-    src: url(../fonts/Mont-Regular.ttf);
+    src: url(6/fonts/Mont-Regular.ttf);
 }
 * {
     padding: 0;
