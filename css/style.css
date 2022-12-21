@@ -340,7 +340,7 @@ background-color: #FF5029;
 }
 
 #genders, #ages, #languages, #cities{
-  color: #000000;
+   background-color: transparent;
   font-family: 'Mont-normal';
   font-size: 2vw;
   display: block;
