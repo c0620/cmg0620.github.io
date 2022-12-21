@@ -750,7 +750,7 @@ line-height: 2vw;
 
 
 
-@media screen and (max-width: 425px) and (min-width:300px){
+@media screen and (max-width: 426px) and (min-width:300px){
   .columns-bot:first-child{
     display: none;
   }
@@ -779,6 +779,22 @@ line-height: 2vw;
     object-fit: contain;
     vertical-align: middle;
   }
+  .lower-block{
+    display: flex;
+    flex-flow: row wrap;
+  }
+  .card1{
+    width: calc((100% - 20px) / 2);
+    height: 30vh;
+  }
+  .card1 img{
+    width: 20vh;
+    height: 20vh;
+  }
+.card-text{
+  margin-top: 20vh;
+  font-size: 3vw;
+}
 }
 @media  (min-width:650.1px) {
   .liness{
