@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Mont-bold';
-    src: url(/fonts/Mont-Bold.ttf);
+    src: url(fonts/Mont-Bold.ttf);
 }
 @font-face {
     font-family: 'Mont-normal';
-    src: url(/fonts/Mont-Regular.ttf);
+    src: url(fonts/Mont-Regular.ttf);
 }
 * {
     padding: 0;
@@ -169,7 +169,7 @@ details > summary{
 }
 details summary:before{
   display: block;
-  content: url(/vec/lines_menu_burger_icon_123889.svg);
+  content: url(vec/lines_menu_burger_icon_123889.svg);
   transform: rotate(0);
   transform-origin: .2rem 50%;
   transition: .25s transform ease;
@@ -179,7 +179,7 @@ details[open] summary:before{
   margin-top: 50%;
   display: block;
   content: ' ';
-  background-image: url('/vec/cross_icon-icons.com_73055.svg');
+  background-image: url('vec/cross_icon-icons.com_73055.svg');
   background-size: 2vw 2vw;
   height: 2vw;
   width: 2vw;
@@ -490,7 +490,7 @@ font-size: 6vw;
 line-height: 6vw;
 }
 .title-image-1{
-  background: url(/img/sec-title-bg.png);
+  background: url(img/sec-title-bg.png);
   background-repeat: no-repeat;
   background-size: 100%;
   border-radius: 2vw;
