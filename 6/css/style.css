@@ -169,7 +169,7 @@ details > summary{
 }
 details summary:before{
   display: block;
-  content: url('/vec/lines_menu_burger_icon_123889.svg');
+  content: url(vec/lines_menu_burger_icon_123889.svg);
   transform: rotate(0);
   transform-origin: .2rem 50%;
   transition: .25s transform ease;
@@ -490,7 +490,7 @@ font-size: 6vw;
 line-height: 6vw;
 }
 .title-image-1{
-  background: url(img/sec-title-bg.png);
+  background: url('img/sec-title-bg.png');
   background-repeat: no-repeat;
   background-size: 100%;
   border-radius: 2vw;
