@@ -344,6 +344,7 @@ background-color: #FF5029;
   font-family: 'Mont-normal';
   font-size: 2vw;
   display: block;
+  background: #FFFFFF;
 }
 .flex-select{
   /* display: inline-block; */
