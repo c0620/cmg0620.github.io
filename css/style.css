@@ -797,6 +797,9 @@ line-height: 2vw;
   margin-top: 20vh;
   font-size: 3vw;
 }
+.card-text span{
+  font-size: 2vw;
+}
 }
 @media  (min-width:650.1px) {
   .liness{
@@ -812,7 +815,7 @@ line-height: 2vw;
   }
 }
 @media  (max-width: 650px) {
-  .vertical-line, .search, .navbar-btn, .navbar-list, .mini-pict, .card-text span{
+  .vertical-line, .search, .navbar-btn, .navbar-list, .mini-pict{
     display: none;
   }
  .form{
